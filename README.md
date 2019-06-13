@@ -1,4 +1,7 @@
 # Chord_Identifier_Max-Js
+
+My first javaScript in Max project
+
 This patcher uses programming in Max msp and javascript to play a number of notes in a scale in polyphony, the user has to guess the notes input them in and will be told if they are correct or incorrect. 
 What works..
 The user can determine the notenum()
